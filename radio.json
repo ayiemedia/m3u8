@@ -1,11 +1,11 @@
 {
   "songs": [
     {
-      "bg": "#c9bea28f",
-      "artist": "sickick",
-      "songName": "talking to the moon (bruno mars remix)",
+      "bg": "#ff0000",
+      "artist": "Techno FM",
+      "songName": "Techno FM",
       "files": {
-        "song": "https://raw.githubusercontent.com/abxlfazl/music-player-widget/main/src/assets/media/songs/1/song.mp3",
+        "song": "https://stream.techno.fm/radio1-192k.mp3",
         "cover": "https://raw.githubusercontent.com/abxlfazl/music-player-widget/main/src/assets/media/songs/1/img.jpg"
       }
     },
