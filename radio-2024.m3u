@@ -114,7 +114,7 @@ https://23693.live.streamtheworld.com/LABUAN_FMAAC.aac
 #EXTINF:-1,LT FM
 http://live.ltfmonline.com:8000/stream
 #EXTINF:-1,Mai FM
-https://streamingp.shoutcast.com/JamendoLounge?lang=en-US%2cen%3bq%3d0.9%2cms%3bq%3d0.8%2cid%3bq%3d0.7
+https://bit.ly/mai-fm-ayiemedia
 #EXTINF:-1,MAKMUR FM
 https://playerservices.streamtheworld.com/api/livestream-redirect/SAM12AAC083_SC
 #EXTINF:-1,Manis FM
@@ -168,7 +168,7 @@ https://shoutcast.protonradio.com/;
 #EXTINF:-1,Quran-1 FM
 http://s2.voscast.com:12312/
 #EXTINF:-1,Quran-10 FM
-https://stream-173.zeno.fm/7ndfsp85fc9uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI3bmRmc3A4NWZjOXV2IiwiaG9zdCI6InN0cmVhbS0xNzMuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6IkI4eDdTSUpkUkhDc191dkdIVGZBSHciLCJpYXQiOjE3MTk5NzY2NjQsImV4cCI6MTcxOTk3NjcyNH0.xM6-eiqSmqTBC5naQf4hq3d2vXl-pH203hwQaEJ6RkM
+https://bit.ly/quran10-2024-ayiemedia
 #EXTINF:-1,Quran-11 FM
 http://listen.qkradio.com.au:8382/listen.mp3
 #EXTINF:-1,Quran-2 FM
@@ -190,7 +190,7 @@ http://149.28.52.216:3344/listen.mp3?sid=1
 #EXTINF:-1,Radio Rosak FM
 https://radiorosak.radioca.st/stream
 #EXTINF:-1,Reggaeton FM
-https://stream-165.zeno.fm/8wup8yd9dm0uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI4d3VwOHlkOWRtMHV2IiwiaG9zdCI6InN0cmVhbS0xNjUuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6IkcyQnZQOC1PU2RpUF9IV2FzbnRxMVEiLCJpYXQiOjE3MTk5NzcyMzksImV4cCI6MTcxOTk3NzI5OX0.iwD6pdbaNdU4d0pqqLmTLaFnF6YBMpAUUfgxFQqjG5w
+https://bit.ly/reggaeton-2024-ayiemedia
 #EXTINF:-1,RES FM
 https://stream2.soundflux.eu:8440/stream
 #EXTINF:-1,Ria 89.7 FM
@@ -200,13 +200,13 @@ http://cloud.tujuh.my:8000/stream
 #EXTINF:-1,SABAH FM
 https://playerservices.streamtheworld.com/api/livestream-redirect/SABAH_VFMAAC.aac
 #EXTINF:-1,SARAWAK FM
-https://playerservices.streamtheworld.com/api/livestream-redirect/SARAWAK_FMAAC.aac?1681943401
+https://playerservices.streamtheworld.com/api/livestream-redirect/SARAWAK_FMAAC.aac
 #EXTINF:-1,SELANGOR FM
-https://playerservices.streamtheworld.com/api/livestream-redirect/SELANGOR_FMAAC.aac?1681943326
+https://playerservices.streamtheworld.com/api/livestream-redirect/SELANGOR_FMAAC.aac
 #EXTINF:-1,SEMARANG FM
 https://stream.cradio.co.id/cradio.aac
 #EXTINF:-1,Sinar FM
-https://n08a-eu.rcs.revma.com/azatk0tbv4uvv/8_1ksmof3jo7vso02/playlist.m3u8?rj-ttl=5&rj-tok=AAABkHbFZmcAB4D1ROzyZrmP5w
+https://n08a-eu.rcs.revma.com/azatk0tbv4uvv/8_1ksmof3jo7vso02/playlist.m3u8
 #EXTINF:-1,SkyChatz FM
 http://fm.skychatz.org:8080/stream
 #EXTINF:-1,SMOOTH 99.5 FM
@@ -214,7 +214,7 @@ https://svara-stream.radioddns.net:8443/jakarta_smoothfm_mp3
 #EXTINF:-1,Suara Rakyat FM
 http://s9.voscast.com:7670/;
 #EXTINF:-1,Suria FM
-https://n08a-eu.rcs.revma.com/azatk0tbv4uvv/8_1ksmof3jo7vso02/playlist.m3u8?rj-ttl=5&rj-tok=AAABkHbVo1YAh_rtuZybJJ0_aQ
+https://n08a-eu.rcs.revma.com/azatk0tbv4uvv/8_1ksmof3jo7vso02/playlist.m3u8
 #EXTINF:-1,Synthwave FM
 https://synthwave-rex.radioca.st/stream
 #EXTINF:-1,Techno FM
